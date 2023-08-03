@@ -31,5 +31,5 @@
 
 ## :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdiKsOnDev&theme=dark&background=000000)](https://git.io/streak-stats)
-![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiKsOnDev&theme=great-gatsby&show_icons=true) 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdiKsOnDev&show_icons=true&theme=great-gatsby"/>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AdiKsOnDev&theme=dark&background=000000"/>
