@@ -31,5 +31,7 @@
 
 ## :fire: My Stats :
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdiKsOnDev&show_icons=true&theme=great-gatsby"/>
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AdiKsOnDev&theme=dark&background=000000"/>
+<div class="container">
+  <img style="width = 50%;" src="https://github-readme-stats.vercel.app/api?username=AdiKsOnDev&show_icons=true&theme=great-gatsby"/>
+  <img style="width = 40%" src="http://github-readme-streak-stats.herokuapp.com?user=AdiKsOnDev&theme=dark&background=000000"/>
+</div>
