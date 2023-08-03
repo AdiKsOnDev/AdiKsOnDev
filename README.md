@@ -32,6 +32,6 @@
 ## :fire: My Stats :
 
 <div class="container">
-  <img style="width = 50%;" src="https://github-readme-stats.vercel.app/api?username=AdiKsOnDev&show_icons=true&theme=great-gatsby"/>
+  <img style="width = 40%;" src="https://github-readme-stats.vercel.app/api?username=AdiKsOnDev&show_icons=true&theme=great-gatsby"/>
   <img style="width = 40%" src="http://github-readme-streak-stats.herokuapp.com?user=AdiKsOnDev&theme=dark&background=000000"/>
 </div>
