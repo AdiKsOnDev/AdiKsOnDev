@@ -1,5 +1,10 @@
 # <div align="center"> :wave: Hi, I am Adil Alizada! </div>
 
+- 3rd Year Computer Science Student at [Heriot-Watt University](https://www.hw.ac.uk/)
+- Python Guru
+
+<br>
+
 <div align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></div>
 
 ---
