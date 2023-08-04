@@ -1,7 +1,7 @@
 # <div align="center"> :wave: Hi, I am Adil Alizada! </div>
 
 - 3rd Year Computer Science Student at [Heriot-Watt University](https://www.hw.ac.uk/)
-- Python Guru
+- Python 'Guru'
 
 <br>
 
