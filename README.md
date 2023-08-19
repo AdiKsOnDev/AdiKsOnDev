@@ -2,7 +2,7 @@
 
 - 3rd Year Computer Science Student at [Heriot-Watt University](https://www.hw.ac.uk/)
 - Python 'Guru'
-- ![](https://komarev.com/ghpvc/?username=AdiKsOnDev&color=blue
+![](https://komarev.com/ghpvc/?username=AdiKsOnDev&color=blue
 
 <br>
 
