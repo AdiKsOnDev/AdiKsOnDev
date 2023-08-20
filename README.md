@@ -25,7 +25,7 @@
 
 
 <!--Intro start-->
-- ☁️ I've keen interest in **AI, Web Development, Scripting and Android Development**. 
+- ☁️ I have keen interest in **AI, Web Development, Scripting and Android Development**. 
 
 - 💬 I am a "Guru", when it comes to **Python**
 
