@@ -44,7 +44,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,kotlin,androidstudio,html,css,scss,tailwind,js,react,jquery,c,linux,raspberrypi,selenium,bash,figma,mysql,sqlite,r,pr,ps,au,ocaml,discord,bots,git,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,java,kotlin,androidstudio,html,css,scss,tailwind,js,nodejs,react,jquery,c,linux,raspberrypi,selenium,bash,figma,mysql,sqlite,r,pr,ps,au,ocaml,bots,git,vscode&perline=14" />
   </a>
 </p>
 
