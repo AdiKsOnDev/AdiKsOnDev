@@ -38,13 +38,13 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tech Stack👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,kotlin,androidstudio,html,css,scss,tailwind,js,nodejs,react,jquery,c,linux,raspberrypi,selenium,bash,figma,mysql,sqlite,r,pr,ps,au,ocaml,bots,git,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,java,kotlin,androidstudio,html,css,scss,tailwind,js,nodejs,react,jquery,c,linux,raspberrypi,selenium,bash,figma,mysql,sqlite,r,pr,ps,au,ocaml,firebase,git,vscode&perline=14" />
   </a>
 </p>
 
