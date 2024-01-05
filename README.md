@@ -8,7 +8,7 @@
   </ul>
 </div>
 
-<p align="center"><img width=50% src="https://www.google.comhttps://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMjE4MTcwMTM1Nl5BMl5BanBnXkFtZTcwMTIwMzMzMw%40%40._V1_.jpg&tbnid=XxSuGKuwju3VUM&vet=1&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0910970%2F&docid=QNx9UpYnFby_FM&w=2048&h=1379&hl=uk-UA&source=sh%2Fx%2Fim%2Fm6%2F4"></p>
+<p align="center"><img width=50% src="https://drive.google.com/file/d/1vnJd2jsVg8cJ7Agzh0CbodrpHiCDRsxu/view?usp=drivesdk"></p>
 
 <!--- Snake -->
 <div align="center">
