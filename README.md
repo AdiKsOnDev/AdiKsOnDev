@@ -26,10 +26,6 @@
 
 
 <!--Intro start-->
-- ☁️ I have keen interest in **AI, Web Development, Scripting and Android Development**. 
-
-- 💬 I am a "Guru", when it comes to **Python** :D
-
 - 📫 Feel free to reach me out **adilalizade13@gmail.com**
 
 - 🏠 I am a student at Heriot-Watt University
