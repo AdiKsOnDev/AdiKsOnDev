@@ -10,12 +10,6 @@
 
 <p align="center"><img width=70% src="https://avatars.dzeninfra.ru/get-zen_doc/1945976/pub_60ea9178b7171a3b1efab431_60ea9a58c7e8815c9d98dce7/scale_1200"></p>
 
-<!--- Snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -29,20 +23,22 @@
 - 📫 Feel free to reach me out **adilalizade13@gmail.com**
 
 - 🏠 I am a student at Heriot-Watt University
+
+- Currently Researching Malware Detection using Machine Learning 
 <!--Intro end-->
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Tech Stack👨🏻‍💻</h2></summary>
   </ul>
-</div>
+</div> -->
 <!--tech stack icons-->
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,kotlin,androidstudio,html,css,scss,tailwind,js,nodejs,react,jquery,c,linux,raspberrypi,selenium,bash,figma,mysql,sqlite,r,pr,ps,au,ocaml,firebase,git,vscode&perline=14" />
   </a>
-</p>
+</p> -->
 
 <!--- stats & Trophy (start) -->
 <div id="user-content-toc">
@@ -58,22 +54,22 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AdiKsOnDev&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiKsOnDev&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiKsOnDev&theme=dark&hide_border=false" /> 
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AdiKsOnDev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
   
   </td>
 </tr>
 </table>
 <!--- stats (end) -->
 
+ <!--- <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AdiKsOnDev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/> --->
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=AdiKsOnDev&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=AdiKsOnDev&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
   </a>
 </div>
 <!--- trophy (start) -->
