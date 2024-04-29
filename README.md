@@ -24,7 +24,7 @@
 
 - 🏠 I am a student at Heriot-Watt University
 
-- Currently Researching Malware Detection using Machine Learning 
+- 📜 Currently writing a Research paper on Malware Detection using Machine Learning 
 <!--Intro end-->
 
 <!--h1 without bottom border-->
