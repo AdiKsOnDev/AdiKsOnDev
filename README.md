@@ -48,26 +48,19 @@
 </div>
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AdiKsOnDev&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-</td>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=80326762" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=80326762&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @AdiKsOnDev" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=80326762&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
-<td width="50%" align="center">
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiKsOnDev&theme=dark&hide_border=false" /> 
-
-  
-  </td>
-</tr>
-</table>
 <!--- stats (end) -->
 
  <!--- <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AdiKsOnDev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/> --->
 <!--- trophy (start) -->
-<div align=center>
+<div align=center width=100%>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=AdiKsOnDev&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
   </a>
