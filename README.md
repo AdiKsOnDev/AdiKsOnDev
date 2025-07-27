@@ -11,7 +11,7 @@
 <p align="center"><img width=70% src="https://avatars.dzeninfra.ru/get-zen_doc/1945976/pub_60ea9178b7171a3b1efab431_60ea9a58c7e8815c9d98dce7/scale_1200"></p>
 
 <a href="https://github.com/AdiKsOnDev">
-    <img width="100%" src="https://gh-widgetbox.vercel.app/api/profile?username=AdiKsOnDev&data=repositories,stars,commits">
+    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=AdiKsOnDev&data=followers,repositories,stars,commits&theme=carbon">
 </a>
 
 <!--h1 without bottom border-->
